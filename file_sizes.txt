@@ -1,0 +1,364 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: F6AE-63FC
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION
+
+09/12/2024  09:00 p. m.        99,646,863 2024-12-09 20-55-13.mkv
+08/12/2024  06:40 p. m.             2,490 server.py
+08/12/2024  06:12 p. m.             1,113 PROYECTO FINAL.ipynb
+09/12/2024  09:21 p. m.                90 README.md
+09/12/2024  10:03 p. m.    <DIR>          .
+09/12/2024  10:03 p. m.                 0 file_sizes.txt
+08/12/2024  05:02 p. m.    <DIR>          .ipynb_checkpoints
+09/12/2024  09:15 p. m.    <DIR>          ..
+09/12/2024  07:18 p. m.    <DIR>          static
+09/12/2024  06:18 p. m.    <DIR>          templates
+               5 archivos     99,650,556 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git
+
+09/12/2024  09:43 p. m.             1,437 index
+09/12/2024  09:42 p. m.               251 config
+09/12/2024  09:43 p. m.               106 FETCH_HEAD
+09/12/2024  09:38 p. m.                73 description
+09/12/2024  09:43 p. m.                41 ORIG_HEAD
+09/12/2024  09:42 p. m.                21 HEAD
+09/12/2024  09:39 p. m.                 9 COMMIT_EDITMSG
+09/12/2024  09:38 p. m.    <DIR>          hooks
+09/12/2024  09:38 p. m.    <DIR>          info
+09/12/2024  09:39 p. m.    <DIR>          logs
+09/12/2024  09:45 p. m.    <DIR>          objects
+09/12/2024  10:03 p. m.    <DIR>          ..
+09/12/2024  09:43 p. m.    <DIR>          refs
+               7 archivos          1,938 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\hooks
+
+09/12/2024  09:38 p. m.             4,898 pre-rebase.sample
+09/12/2024  09:38 p. m.             4,726 fsmonitor-watchman.sample
+09/12/2024  09:38 p. m.             3,650 update.sample
+09/12/2024  09:38 p. m.             2,783 push-to-checkout.sample
+09/12/2024  09:38 p. m.             2,308 sendemail-validate.sample
+09/12/2024  09:38 p. m.             1,649 pre-commit.sample
+09/12/2024  09:38 p. m.             1,492 prepare-commit-msg.sample
+09/12/2024  09:38 p. m.             1,374 pre-push.sample
+09/12/2024  09:38 p. m.               896 commit-msg.sample
+09/12/2024  09:38 p. m.               544 pre-receive.sample
+09/12/2024  09:38 p. m.               478 applypatch-msg.sample
+09/12/2024  09:38 p. m.               424 pre-applypatch.sample
+09/12/2024  09:38 p. m.               416 pre-merge-commit.sample
+09/12/2024  09:38 p. m.               189 post-update.sample
+09/12/2024  09:38 p. m.    <DIR>          .
+              14 archivos         25,827 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\info
+
+09/12/2024  09:38 p. m.               240 exclude
+09/12/2024  09:38 p. m.    <DIR>          .
+               1 archivos            240 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\logs
+
+09/12/2024  09:45 p. m.             1,113 HEAD
+09/12/2024  09:43 p. m.    <DIR>          refs
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos          1,113 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\logs\refs
+
+09/12/2024  09:39 p. m.    <DIR>          ..
+09/12/2024  09:42 p. m.    <DIR>          heads
+09/12/2024  09:43 p. m.    <DIR>          remotes
+09/12/2024  09:43 p. m.    <DIR>          .
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\logs\refs\heads
+
+09/12/2024  09:45 p. m.               743 main
+09/12/2024  09:43 p. m.    <DIR>          ..
+09/12/2024  09:42 p. m.    <DIR>          .
+               1 archivos            743 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\logs\refs\remotes
+
+09/12/2024  09:43 p. m.    <DIR>          ..
+09/12/2024  09:43 p. m.    <DIR>          origin
+09/12/2024  09:43 p. m.    <DIR>          .
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\logs\refs\remotes\origin
+
+09/12/2024  09:43 p. m.               192 main
+09/12/2024  09:43 p. m.    <DIR>          ..
+09/12/2024  09:43 p. m.    <DIR>          .
+               1 archivos            192 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects
+
+09/12/2024  09:45 p. m.    <DIR>          .
+09/12/2024  09:39 p. m.    <DIR>          05
+09/12/2024  09:39 p. m.    <DIR>          06
+09/12/2024  09:39 p. m.    <DIR>          0a
+09/12/2024  09:39 p. m.    <DIR>          11
+09/12/2024  09:43 p. m.    <DIR>          52
+09/12/2024  09:39 p. m.    <DIR>          56
+09/12/2024  09:39 p. m.    <DIR>          64
+09/12/2024  09:39 p. m.    <DIR>          66
+09/12/2024  09:39 p. m.    <DIR>          6a
+09/12/2024  09:43 p. m.    <DIR>          7a
+09/12/2024  09:39 p. m.    <DIR>          83
+09/12/2024  09:39 p. m.    <DIR>          8b
+09/12/2024  09:39 p. m.    <DIR>          9c
+09/12/2024  09:39 p. m.    <DIR>          bb
+09/12/2024  09:39 p. m.    <DIR>          c3
+09/12/2024  09:39 p. m.    <DIR>          c9
+09/12/2024  09:39 p. m.    <DIR>          ca
+09/12/2024  09:39 p. m.    <DIR>          d9
+09/12/2024  09:45 p. m.    <DIR>          db
+09/12/2024  09:39 p. m.    <DIR>          de
+09/12/2024  09:39 p. m.    <DIR>          e5
+09/12/2024  09:39 p. m.    <DIR>          ec
+09/12/2024  09:38 p. m.    <DIR>          info
+09/12/2024  09:38 p. m.    <DIR>          pack
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\05
+
+09/12/2024  09:39 p. m.            76,237 0191d0a183aac081bae6d5fee80d5c143525e9
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos         76,237 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\06
+
+09/12/2024  09:43 p. m.               282 6ed53d9d255169efb968b6339a37baccb92c1f
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos            282 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\0a
+
+09/12/2024  09:39 p. m.             4,368 991e1f7e28f384ec70741cff8756e72bc075f5
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos          4,368 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\11
+
+09/12/2024  09:39 p. m.            44,063 85adefeb67340dd2fedac7937ad0ed1094b1f5
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos         44,063 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\52
+
+09/12/2024  09:39 p. m.            43,028 63b756880e39d7ac9e8857c48438b63d7f33d8
+09/12/2024  09:43 p. m.               793 3591f045984550edd447287f3ad8cf7a53ae84
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:43 p. m.    <DIR>          .
+               2 archivos         43,821 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\56
+
+09/12/2024  09:39 p. m.             1,051 e718d282ad39274604fa01a57cc8165214e76a
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos          1,051 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\64
+
+09/12/2024  09:39 p. m.             1,349 87299c2f2144b9c923c33968b77549e81d9c1f
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos          1,349 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\66
+
+09/12/2024  09:43 p. m.                91 a3d4348d639472e3d26016e5ca156ef311fa54
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos             91 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\6a
+
+09/12/2024  09:39 p. m.                76 8a71a24d710c88c4f51ff7a5a6f4cf68001793
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos             76 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\7a
+
+09/12/2024  09:43 p. m.                54 1e9fee7000ad618c68140de8713215dc47091e
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:43 p. m.    <DIR>          .
+               1 archivos             54 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\83
+
+09/12/2024  09:39 p. m.        73,130,018 8c300bed4a3e99ea5ae0447877b3d44e948446
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos     73,130,018 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\8b
+
+09/12/2024  09:39 p. m.               614 961b3aa5ac1a87cbb480330e384bed48169d9d
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos            614 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\9c
+
+09/12/2024  09:39 p. m.             1,279 976dda1528fafedd8221594c31ec8c85966599
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos          1,279 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\bb
+
+09/12/2024  09:39 p. m.            43,885 6bc742283ed223c4c5e04742d10f8dc2271fb5
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos         43,885 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\c3
+
+09/12/2024  09:39 p. m.            30,986 1d4c30a20af6da987a9fe84034af8cb8f38b18
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos         30,986 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\c9
+
+09/12/2024  09:39 p. m.               248 ee719156971da16dcbfd8217f9cf97dc14d7d9
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos            248 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\ca
+
+09/12/2024  09:39 p. m.             1,929 3ae25940818af7c051e5c6012f5dac32da08aa
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos          1,929 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\d9
+
+09/12/2024  09:39 p. m.                55 3eeb694133fa276980ee23362aa9b1c4106142
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos             55 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\db
+
+09/12/2024  09:45 p. m.               239 c1fb529df7ac4b7e7e4df3f9d5d40653bf6753
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:45 p. m.    <DIR>          .
+               1 archivos            239 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\de
+
+09/12/2024  09:39 p. m.               130 7d119d350035c5c65baec0e94710cabdf6367f
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos            130 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\e5
+
+09/12/2024  09:39 p. m.                85 7b9ac04fcf125d31286c50d4153f3267cb074d
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos             85 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\ec
+
+09/12/2024  09:39 p. m.            82,643 2de324a44530583592662f03447bcd51e772fd
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:39 p. m.    <DIR>          .
+               1 archivos         82,643 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\info
+
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:38 p. m.    <DIR>          .
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\objects\pack
+
+09/12/2024  09:45 p. m.    <DIR>          ..
+09/12/2024  09:38 p. m.    <DIR>          .
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\refs
+
+09/12/2024  09:45 p. m.    <DIR>          heads
+09/12/2024  09:43 p. m.    <DIR>          remotes
+09/12/2024  09:38 p. m.    <DIR>          tags
+09/12/2024  09:43 p. m.    <DIR>          .
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\refs\heads
+
+09/12/2024  09:45 p. m.                41 main
+09/12/2024  09:43 p. m.    <DIR>          ..
+09/12/2024  09:45 p. m.    <DIR>          .
+               1 archivos             41 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\refs\remotes
+
+09/12/2024  09:43 p. m.    <DIR>          ..
+09/12/2024  09:43 p. m.    <DIR>          origin
+09/12/2024  09:43 p. m.    <DIR>          .
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\refs\remotes\origin
+
+09/12/2024  09:43 p. m.                41 main
+09/12/2024  09:43 p. m.    <DIR>          ..
+09/12/2024  09:43 p. m.    <DIR>          .
+               1 archivos             41 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.git\refs\tags
+
+09/12/2024  09:43 p. m.    <DIR>          ..
+09/12/2024  09:38 p. m.    <DIR>          .
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\.ipynb_checkpoints
+
+08/12/2024  05:02 p. m.             3,796 PROYECTO FINAL-checkpoint.ipynb
+09/12/2024  10:03 p. m.    <DIR>          ..
+08/12/2024  05:02 p. m.    <DIR>          .
+               1 archivos          3,796 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\static
+
+08/12/2024  07:32 p. m.            83,904 monster_amarillo.jpg
+08/12/2024  07:33 p. m.            77,548 monster_rojo.jpg
+08/12/2024  07:33 p. m.            46,963 monster_azul.jpg
+08/12/2024  07:32 p. m.            45,512 monster_verde.jpg
+08/12/2024  07:34 p. m.            32,425 monster_morado.jpg
+09/12/2024  08:19 p. m.             5,234 game.js
+09/12/2024  07:18 p. m.    <DIR>          .
+09/12/2024  10:03 p. m.    <DIR>          ..
+09/12/2024  07:19 p. m.    <DIR>          sounds
+               6 archivos        291,586 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\static\sounds
+
+09/12/2024  07:12 p. m.            44,258 correct.mp3
+09/12/2024  07:15 p. m.             4,704 wrong.mp3
+09/12/2024  07:18 p. m.    <DIR>          ..
+09/12/2024  07:19 p. m.    <DIR>          .
+               2 archivos         48,962 bytes
+
+ Directorio de C:\Users\dolly\OneDrive\Documentos\PROYECTO_VISION\templates
+
+09/12/2024  07:02 p. m.             3,707 index.html
+09/12/2024  10:03 p. m.    <DIR>          ..
+09/12/2024  06:18 p. m.    <DIR>          .
+               1 archivos          3,707 bytes
+
+     Total de archivos en la lista:
+              65 archivos    173,492,245 bytes
+             121 dirs  96,396,935,168 bytes libres
